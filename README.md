@@ -1,4 +1,4 @@
-# Statistical-analysis-with-Python
+# WIP - Statistical analysis with Python
 ##### by Markus Müller
 
 This repo will showcase and explain various statistical methods used for data analysis.
@@ -9,3 +9,7 @@ Descriptive statistics help to simplify large amounts of data in a sensible way 
 ### Files
 - 1_Descriptive_statistics.ipynb: Jupyter notebook explaining and implementing various descriptive methods 
   - measures of center, spread, frequency, skew etc.
+- 2_Sampling_distribution.ipynb
+  - estimations from sample to population 
+  - calculated z_scores and the probability
+  - confidence interval
